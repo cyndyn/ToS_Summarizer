@@ -1,4 +1,4 @@
-** Reupload from gitlab repo **
+** Reupload from private gitlab repo **
 # Summarized For U (SFU)
 
 The official Summarized For U application
